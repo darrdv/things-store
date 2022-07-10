@@ -6,7 +6,7 @@ const Header = () => {
       <header>
           <Link to="/"><h1>Threads</h1></Link>
           <Link to="/wishlist">Wish List</Link>
-          <Link to="/cart"><i class="fa-solid fa-cart-shopping"></i></Link>
+          <Link to="/cart"><i className="fa-solid fa-cart-shopping"></i></Link>
       </header>
   )
 }
